@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
-  "homepage": "https://VasylSaliuk.github.io/Team-Project-1",
+  "homepage": "https://Oksina.github.io/Hellen-English",
   "scripts": {
     "dev": "parcel src/*.html",
     "build": "parcel build src/*.html",
